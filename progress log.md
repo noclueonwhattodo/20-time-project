@@ -7,3 +7,8 @@
  2. I must learn GUI functions in JS (or find a way around them)
  3. I must make sure I have a functioning work flow
  Lets hope this works
+
+
+                                              #11/23/2017 log 2#
+ This f****** sucks. I made log two, planned out the entire first phaze. I closed my computer and upon opening it crashed and i lost all 
+ of my work
