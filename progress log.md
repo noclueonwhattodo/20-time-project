@@ -12,3 +12,13 @@
                                               #11/23/2017 log 2#
  This f****** sucks. I made log two, planned out the entire first phaze. I closed my computer and upon opening it crashed and i lost all 
  of my work
+
+                                              #11/27/2017 log 3#
+It's time to get back on track. My workflow works, so that it not an issue. I have yet to learn about GUI's but Mr.O suggested that I learn interactive HTML/CSS and integrate it with the java; more on that in future. The game will have three stages all very different, but with some elements of the previous stage integrated back into the next. The game will begin with a pretty simple tast, but will end with monitoring and managing multiple streams of information. The aim of the game starts with writing lines of code and ends with you turning the whole universe into a super computer.
+
+Stage one
+-you click a button and "write" a line of code. 
+-every line of code costs a joule of electricity
+-you can buy joules by the Kj (cost starts at 15$ +- 5$[increases by 0.03% every purchase]
+{buy bots, they make one line of code per second}(cost 2$ +0.15% every purchase)
+{creatre a thinktank, generates upgrades for the rest of the game. Can buy more snacks and more beanbags}
